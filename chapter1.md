@@ -1,6 +1,6 @@
 ---
-title: 'Gold/Copper Ratio Analysis '
-description: "The copper-gold ratio is calculated by dividing the market price of copper by the market price of gold. Copper is an industrial metal. It is used in plumbing, electric wiring, and its anti-bacterial properties coupled with its malleability lend the metal to be used in medical equipment. Demand increases during periods when economic output is rising. Gold is a store of value. It is molded into ingots, bullion, or displayed as jewelry. Its actual industrial applications are limited. The differing uses of the metals has allowed the copper-gold ratio to act as an accurate barometer of global growth.\n"
+title: 'Application: Intermediate Python for Finance'
+description: 'Financial Visualization using Matplotlib and Seaborn (intro. only for screencast); limited code has been embedded due to the incapability to link images of code output...'
 ---
 
 ## Application: Intermediate Python For Finance
